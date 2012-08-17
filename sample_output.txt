@@ -1,0 +1,49 @@
+Aug 17, 2012 12:54:50 AM com.google.appengine.api.datastore.dev.LocalDatastoreService init
+INFO: Local Datastore initialized: 
+    Type: Master/Slave
+    Storage: In-memory
+Page 1
+content: [
+	AA-78, AB-79, AC-8, AD-62, AE-63, AF-64, AG-65, AH-66, AI-67, AJ-69,
+ 	AK-70, AL-72, AM-4, AN-13, AO-15, AP-17, AQ-19, AR-21, AS-24, AT-25,
+ 	AU-26, AV-27, AW-6, AX-28, AY-30, AZ-32, BA-34, BB-36, BC-38, BC-74
+]
+prev: "AA"
+next: "BC"
+
+Page 2
+content: [
+	BC-75, BC-76, BC-77, BD-2, BD-40, BD-68, BD-71, BD-73, BE-42, BF-44,
+	BG-7, BH-47, BI-49, BJ-51, BK-53, BL-55, BM-57, BN-59, BO-60, BP-61,
+	BQ-9, BR-10, BS-11, BT-12, BU-14, BV-16, BW-18, BX-20, BY-22, BZ-23
+]
+prev: "BC"
+next: "BZ"
+
+Page 3
+content: [
+	CA-1, CB-29, CC-31, CD-33, CE-35, CF-37, CG-39, CH-41, CI-43, CJ-45,
+	CK-5, CL-80, CM-81, CN-82, CO-83, CP-84, CQ-85, CR-86, CS-87, CT-88,
+	CU-3, CV-46, CW-48, CX-50, CY-52, CZ-54, DA-56, DB-58
+]
+prev: "CA"
+next: "DB"
+
+Page 2a
+content: [
+	BC-75, BC-76, BC-77, BD-2, BD-40, BD-68, BD-71, BD-73, BE-42, BF-44,
+	BG-7, BH-47, BI-49, BJ-51, BK-53, BL-55, BM-57, BN-59, BO-60, BP-61,
+	BQ-9, BR-10, BS-11, BT-12, BU-14, BV-16, BW-18, BX-20, BY-22, BZ-23
+]
+prev: "BC"
+next: "BZ"
+
+Page 1a
+content: [
+	AA-78, AB-79, AC-8, AD-62, AE-63, AF-64, AG-65, AH-66, AI-67, AJ-69,
+	AK-70, AL-72, AM-4, AN-13, AO-15, AP-17, AQ-19, AR-21, AS-24, AT-25,
+	AU-26, AV-27, AW-6, AX-28, AY-30, AZ-32, BA-34, BB-36, BC-38, BC-74
+]
+prev: "AA"
+next: "BC"
+
